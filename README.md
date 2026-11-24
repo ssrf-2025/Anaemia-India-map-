@@ -21,5 +21,16 @@ The info box and CSV also show NFHS-5 (2019-21) state values (IIPS/MoHFW fact sh
 ## Use
 Open `index.html` in a browser. It is a single self-contained file with no dependencies.
 
-## Licence
-Code: MIT (add a LICENSE file). Survey data remain the property of ICMR-NIN; check their terms before redistribution.
+## Licence and credits
+
+**Code:** MIT Licence (see the `LICENSE` file). Copyright (c) 2026 [Your Name].
+
+**Data:** The anaemia estimates belong to their original sources and are not covered by the MIT Licence:
+- SAMPADA 2023-25 estimates: ICMR-National Institute of Nutrition, *Anaemia and Micronutrient Deficiencies Across the Life Course in India* (Hyderabad: ICMR-NIN; 2026).
+- NFHS-5 (2019-21) values: IIPS and Ministry of Health and Family Welfare, state fact sheets, accessed via MoSPI.
+- Please check the original publishers' terms before redistributing the data.
+
+**Boundaries:** State outlines are derived from an open India districts dataset ([source name and link]) and simplified. They are illustrative and not an official depiction of India's boundaries. Check that dataset's licence for attribution requirements.
+
+**Disclaimer:** Values were transcribed manually and have not been independently verified. This map is provided as is, without warranty. Use the original publications for any official or published work.## Licence
+Code: MIT 
